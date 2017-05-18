@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MedicalPlaceTypes>
+  <MedicalPlaceType>
+    <Id>1</Id>
+    <Name>Hospital</Name>
+    <Icon>hospital.png</Icon>
+  </MedicalPlaceType>
+  <MedicalPlaceType>
+    <Id>2</Id>
+    <Name>Clinic</Name>
+    <Icon>clinic.png</Icon>
+  </MedicalPlaceType>
+  <MedicalPlaceType>
+    <Id>3</Id>
+    <Name>Pharmacy</Name>
+    <Icon>pharmacy.png</Icon>
+  </MedicalPlaceType>
+</MedicalPlaceTypes>

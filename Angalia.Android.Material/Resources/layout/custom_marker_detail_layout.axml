@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/frameLayout1">
+            <ImageView
+                android:id="@+id/BuildingImage"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY" />
+            <TextView
+                android:id="@+id/TitleText"
+                android:textSize="24sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:layout_gravity="bottom"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="20dp" />
+        </FrameLayout>
+        <TextView
+            android:id="@+id/ImageSeparator"
+            android:background="#ff0000"
+            android:layout_width="match_parent"
+            android:layout_height="4dp"
+            android:layout_marginBottom="16dp" />
+        <TextView
+            android:id="@+id/PhoneLabel"
+            android:textSize="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Phone Number"
+            android:gravity="center_horizontal"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/PhoneText"
+            android:textSize="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:gravity="center_horizontal" />
+        <TextView
+            android:id="@+id/ImageSeparator"
+            android:background="#676767"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="16dp" />
+        <TextView
+            android:id="@+id/AddressLabel"
+            android:textSize="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text="Address"
+            android:gravity="center_horizontal"
+            android:textStyle="bold" />
+        <TextView
+            android:id="@+id/AddressText"
+            android:textSize="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="16dp" />
+    </LinearLayout>
+</ScrollView>

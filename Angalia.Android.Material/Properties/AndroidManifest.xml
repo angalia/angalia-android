@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Angalia.Android.Material" android:installLocation="preferExternal">
+	<uses-sdk android:targetSdkVersion="21" android:minSdkVersion="15" />
+	<application android:label="Angalia" android:theme="@style/Theme.Crosslight.Material.Light" android:icon="@drawable/icon">
+		<uses-library android:required="true" android:name="com.google.android.maps" />
+		<meta-data android:name="intersoft.crosslight.android.GOOGLE_API_KEY" android:value="AIzaSyBy72u84bQ8xu6Jo2m-tVAK1STGqBCN2cY" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyAOrxHcgy25oU7hBCOnHYixonTuGXZ3eAw" />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-feature android:glEsVersion="0x00020000" android:required="true" />
+</manifest>
+<!--geocode AIzaSyBSg-ojXwZBTjo0ejOcKVMrx2Qz0ymHDNM
+direction AIzaSyBy72u84bQ8xu6Jo2m-tVAK1STGqBCN2cY
+-->

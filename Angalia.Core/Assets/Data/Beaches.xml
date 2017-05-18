@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Beaches>
+  <Beach>
+    <Id>1</Id>
+    <Name>Whitehaven Beach</Name>
+    <Location>-20.282643, 149.039094</Location>
+    <StreetName>Whitsunday Island</StreetName>
+    <State>Queensland</State>
+    <PostalCode>4802</PostalCode>
+    <City>Cannonvale</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>2</Id>
+    <Name>Cable Beach</Name>
+    <Location>-17.8851847, 122.21291380000002</Location>
+    <StreetName>Cable Beach</StreetName>
+    <State>Western Australia</State>
+    <PostalCode>6726</PostalCode>
+    <City>Broome</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>3</Id>
+    <Name>Burleigh Heads</Name>
+    <Location>-17.8851847, 122.21291380000002</Location>
+    <StreetName>Burleigh Heads</StreetName>
+    <State>Queensland</State>
+    <PostalCode>4226</PostalCode>
+    <City>Merrimac</City>
+    <Country>Australia</Country>
+  </Beach>  
+  <Beach>
+    <Id>4</Id>
+    <Name>Noosa Main Beach</Name>
+    <Location>-25.5926515,152.953359</Location>
+    <StreetName>Noosa Main Beach</StreetName>
+    <State>Queensland</State>
+    <PostalCode>4566</PostalCode>
+    <City>Noosaville</City>
+    <Country>Australia</Country>
+  </Beach>  
+  <Beach>
+    <Id>5</Id>
+    <Name>75 Mile Beach</Name>
+    <Location>-25.286766, 153.227595</Location>
+    <StreetName>Fraser Island</StreetName>
+    <State>Queensland</State>
+    <PostalCode>4581</PostalCode>
+    <City></City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>6</Id>
+    <Name>Wineglass Bay</Name>
+    <Location>-42.130636, 148.312320</Location>
+    <StreetName>Freycinet National Park</StreetName>
+    <State>Tasmania</State>
+    <PostalCode>7215</PostalCode>
+    <City>Coles Bay</City>
+    <Country>Australia</Country>
+  </Beach>  
+  <Beach>
+    <Id>7</Id>
+    <Name>Mandalay Beach</Name>
+    <Location>-35.004110, 116.533356</Location>
+    <StreetName>Mandalay Beach Road</StreetName>
+    <State>Western Australia</State>
+    <PostalCode>6398</PostalCode>
+    <City></City>
+    <Country>Australia</Country>
+  </Beach>  
+  <Beach>
+    <Id>8</Id>
+    <Name>Byron Bay Beach</Name>
+    <Location>-28.6468716,153.6024951</Location>
+    <StreetName>Byron Bay Beach</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2481</PostalCode>
+    <City>Byron Bay</City>
+    <Country>Australia</Country>
+  </Beach>  
+  <Beach>
+    <Id>9</Id>
+    <Name>Lizard Island</Name>
+    <Location>-14.673190, 145.453068</Location>
+    <StreetName>Lizard Island</StreetName>
+    <State>Queensland</State>
+    <PostalCode>4871</PostalCode>
+    <City>Cairns</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>10</Id>
+    <Name>Bondi Beach</Name>
+    <Location>-33.890542, 151.274856</Location>
+    <StreetName>164 Campbell Parade</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2026</PostalCode>
+    <City>Sydney</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>11</Id>
+    <Name>Maroubra Beach</Name>
+    <Location>-33.950198, 151.259302</Location>
+    <StreetName>LOT 613 Broome Street</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2035</PostalCode>
+    <City>Kogarah</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>12</Id>
+    <Name>Cronulla Beach</Name>
+    <Location>-34.028249, 151.157507</Location>
+    <StreetName>LOT 4 Captain Cook Drive</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2231</PostalCode>
+    <City>Cronulla</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>13</Id>
+    <Name>Manly Beach</Name>
+    <Location>-33.80010128657071, 151.28747820854187</Location>
+    <StreetName>14 Victoria Parade</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2095</PostalCode>
+    <City>Manly</City>
+    <Country>Australia</Country>
+  </Beach>
+  <Beach>
+    <Id>14</Id>
+    <Name>Coogee Beach</Name>
+    <Location>-33.923036, 151.259052</Location>
+    <StreetName>140 Beach Street</StreetName>
+    <State>New South Wales</State>
+    <PostalCode>2034</PostalCode>
+    <City>Bondi</City>
+    <Country>Australia</Country>
+  </Beach>
+</Beaches>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MedicalPlaces>
+  <MedicalPlace>
+    <Id>1</Id>
+    <Name>UCSF Medical Center</Name>
+    <Location>37.763221, -122.457898</Location>
+    <PhoneNumber>+1 805834744</PhoneNumber>
+    <StreetName>505 Parnassus Avenue</StreetName>
+    <State>California</State>
+    <PostalCode>94143</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>1.jpg</Logo>
+    <BuildingImage>1b.jpg</BuildingImage>
+    <TypeId>1</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>2</Id>
+    <Name>St. Francis Memorial Hospital</Name>
+    <Location>37.7896321, -122.417004</Location>
+    <PhoneNumber>+1 453454375</PhoneNumber>
+    <StreetName>900 Hyde Street</StreetName>
+    <State>California</State>
+    <PostalCode>94109</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>2.jpg</Logo>
+    <BuildingImage>2b.jpg</BuildingImage>
+    <TypeId>1</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>3</Id>
+    <Name>Center for Reproductive Health</Name>
+    <Location>37.785431, -122.439191</Location>
+    <PhoneNumber>+1 455567343</PhoneNumber>
+    <StreetName>2356 Sutter Street</StreetName>
+    <State>California</State>
+    <PostalCode>94115</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>3.png</Logo>
+    <BuildingImage>3b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>4</Id>
+    <Name>AHF Pharmacy</Name>
+    <Location>34.036449, -118.265381</Location>
+    <PhoneNumber>+1 456456573</PhoneNumber>
+    <StreetName>1414 South Grand Avenue</StreetName>
+    <State>California</State>
+    <PostalCode>90015</PostalCode>
+    <City>Los Angeles</City>
+    <Country>USA</Country>
+    <Logo>4.png</Logo>
+    <BuildingImage>4b.png</BuildingImage>
+    <TypeId>3</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>5</Id>
+    <Name>Sutter Pacific Medical Foundation</Name>
+    <Location>37.787124, -122.45525</Location>
+    <PhoneNumber>+1 564564533</PhoneNumber>
+    <StreetName>401-499 Maple Street</StreetName>
+    <State>California</State>
+    <PostalCode>94118</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>5.png</Logo>
+    <BuildingImage>5b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>6</Id>
+    <Name>Laguna Honda Hospital and Rehabilitation Center</Name>
+    <Location>37.747292, -122.459044</Location>
+    <PhoneNumber>+1 676868567</PhoneNumber>
+    <StreetName>347-365 Laguna Honda Boulevard</StreetName>
+    <State>California</State>
+    <PostalCode>94116</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>6.jpg</Logo>
+    <BuildingImage>6b.jpg</BuildingImage>
+    <TypeId>1</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>7</Id>
+    <Name>Pharmaca Integrative Pharmacy</Name>
+    <Location>37.765366, -122.45012</Location>
+    <PhoneNumber>+1 856664543</PhoneNumber>
+    <StreetName>925 Cole Street</StreetName>
+    <State>California</State>
+    <PostalCode>94117</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>7.png</Logo>
+    <BuildingImage>7b.png</BuildingImage>
+    <TypeId>3</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>8</Id>
+    <Name>California Pacific Medical Center</Name>
+    <Location>37.791356, -122.431908</Location>
+    <PhoneNumber>+1 465745323</PhoneNumber>
+    <StreetName>2340 Clay Street</StreetName>
+    <State>California</State>
+    <PostalCode>94115</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>8.jpg</Logo>
+    <BuildingImage>8b.jpg</BuildingImage>
+    <TypeId>1</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>9</Id>
+    <Name>UCSF Sports Medicine Center</Name>
+    <Location>37.768709, -122.395782</Location>
+    <PhoneNumber>+1 463464334</PhoneNumber>
+    <StreetName>1500 Owens Street</StreetName>
+    <State>California</State>
+    <PostalCode>94158</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>9.png</Logo>
+    <BuildingImage>9b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>10</Id>
+    <Name>San Francisco General Hospital</Name>
+    <Location>37.755405, -122.404625</Location>
+    <PhoneNumber>+1 233531221</PhoneNumber>
+    <StreetName>1001 Potrero Avenue</StreetName>
+    <State>California</State>
+    <PostalCode>94110</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>10.jpg</Logo>
+    <BuildingImage>10b.jpg</BuildingImage>
+    <TypeId>1</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>11</Id>
+    <Name>Ace Pharmacy</Name>
+    <Location>37.753403, -122.490539</Location>
+    <PhoneNumber>+1 755567580</PhoneNumber>
+    <StreetName>2511 Noriega Street</StreetName>
+    <State>California</State>
+    <PostalCode>94122</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>11.png</Logo>
+    <BuildingImage>11b.png</BuildingImage>
+    <TypeId>3</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>12</Id>
+    <Name>CVS pharmacy</Name>
+    <Location>37.786852, -122.40412</Location>
+    <PhoneNumber>+1 996756994</PhoneNumber>
+    <StreetName>731 Market Street</StreetName>
+    <State>California</State>
+    <PostalCode>94103</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>12.png</Logo>
+    <BuildingImage>12b.png</BuildingImage>
+    <TypeId>3</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>13</Id>
+    <Name>Silver Lake Medical Center</Name>
+    <Location>34.0696803, -118.2635132</Location>
+    <PhoneNumber>+1 213-989-6100</PhoneNumber>
+    <StreetName>1711 West Temple Street</StreetName>
+    <State>California</State>
+    <PostalCode>90026</PostalCode>
+    <City>Los Angeles</City>
+    <Country>USA</Country>
+    <Logo>13.png</Logo>
+    <BuildingImage>13b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>14</Id>
+    <Name>Saint Francis Laboratory</Name>
+    <Location>37.789405, -122.416681</Location>
+    <PhoneNumber>+1 769808756</PhoneNumber>
+    <StreetName>900 Hyde Street</StreetName>
+    <State>California</State>
+    <PostalCode>94109</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>14.png</Logo>
+    <BuildingImage>14b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>15</Id>
+    <Name>Walgreens Store San Francisco</Name>
+    <Location>37.777102, -122.416266</Location>
+    <PhoneNumber>+1 876876455</PhoneNumber>
+    <StreetName>1301 Market Street</StreetName>
+    <State>California</State>
+    <PostalCode>94103</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>15.png</Logo>
+    <BuildingImage>15b.png</BuildingImage>
+    <TypeId>3</TypeId>
+  </MedicalPlace>
+  <MedicalPlace>
+    <Id>16</Id>
+    <Name>Kaiser Permanente: Shafaee Navid MD</Name>
+    <Location>37.782357, -122.442786</Location>
+    <PhoneNumber>+1 687665996</PhoneNumber>
+    <StreetName>2425 Geary Boulevard</StreetName>
+    <State>California</State>
+    <PostalCode>94115</PostalCode>
+    <City>San Francisco</City>
+    <Country>USA</Country>
+    <Logo>16.png</Logo>
+    <BuildingImage>16b.png</BuildingImage>
+    <TypeId>2</TypeId>
+  </MedicalPlace>
+</MedicalPlaces>
